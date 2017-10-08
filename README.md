@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Responsive Portfolio - HW 2
+Responsive Portfolio - handmade media queries using CSS + HTML
